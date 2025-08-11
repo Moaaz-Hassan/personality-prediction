@@ -42,7 +42,6 @@ This project builds a machine learning pipeline to predict whether a person is *
 * Test Accuracy: **91.45%**
 * Precision, Recall, F1-Score above 87%.
 * PR curve evaluated to find the best decision threshold.
-* * Final model saved for deployment.
+* Final model saved for deployment.
   
-### 3ز 
-### 3زز
+ 
