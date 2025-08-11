@@ -23,7 +23,7 @@ This project builds a machine learning pipeline to predict whether a person is *
   * Ordinal → `OrdinalEncoder`, `LabelEncoder`
   * Nominal (<7 uniques) → One-Hot Encoding
   * Nominal (>7 uniques) → Binary Encoding
-*  Dealing with Balance dataset.
+* Dealing with Imbalanced: X_train_resampled
 * Scale features with `StandardScaler`, `MinMaxScaler`, `RobustScaler`.
 
 ### 6. Modeling
